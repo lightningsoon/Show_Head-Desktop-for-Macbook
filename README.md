@@ -9,5 +9,4 @@ When sharing the screen, we want to hide the desktop icon to avoid embarrassment
 With this small app, you just click once to hide, click again to display. \
 Just download, unzip, copy to the application, open, confirm security, hide the desktop icon, and click again to restore as new. \
 It is open-source according to the loose GPL protocol. You can view internal programs freely. \
-
 [Download link](https://pan.baidu.com/s/1zobeAgk9PagEb1TZvJtbSg) 
